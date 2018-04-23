@@ -1,7 +1,7 @@
 
 
 
-#Scraper made for my Uni assigment, with Python 3 and Scrapy
+# Scraper made for my Uni assigment, with Python 3 and Scrapy
 
 # Starting things up
 0. Prepare your python.
